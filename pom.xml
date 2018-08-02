@@ -7,6 +7,8 @@
     <groupId>com.zalaris</groupId>
     <artifactId>qa-interview</artifactId>
     <version>1.0-SNAPSHOT</version>
+         
+    <description>Test cases for QA interviews</description>
 
     <dependencies>
         <dependency>
