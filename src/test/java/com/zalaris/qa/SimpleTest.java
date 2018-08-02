@@ -17,7 +17,7 @@ import java.net.URL;
  * https://automate.browserstack.com/
  *
  * login:  a5923789@nwytg.net
- * password: zalaris
+ * password: z******
  */
 public class SimpleTest {
 
